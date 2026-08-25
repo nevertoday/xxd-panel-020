@@ -16,16 +16,7 @@
 
 </div>
 
-> DECONSTRUCT–SELECT–DISTIL–RECONSTRUCT · FEW FORMS · STRICT COLOUR ROLES · IVORY SPACE · ART-BOOK MICROTYPE
-
-XXD Panel 020 is an image-generation Skill for Codex and compatible agents. It deconstructs, selects, distils, and reconstructs a photograph, retaining only its most distinctive mass ratios, axes, curves, interlocks, layers, occlusions, negative spaces, scale differences, and asymmetry in a few geometric forms that still correspond at a glance.
-
-Colour comes only from the source and resolves into one main colour, one dark structural colour, one light or neutral colour, and at most a small key accent. One poetic 2–5-word title carries emotion while two to four microtext groups carry order, evidence, material, and reading rhythm: geometry holds visual memory; typography builds the editorial path.
-
 ## Samples · From X
-
-> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090148356597428723) · 2026-08-19<br>
-> GPT2 x 厚涂 x 立体感 x 美学提示词 x VOL.020
 
 <table>
   <tr>
@@ -38,9 +29,18 @@ Colour comes only from the source and resolves into one main colour, one dark st
   </tr>
 </table>
 
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090148356597428723) · 2026-08-19<br>
+> GPT2 x 厚涂 x 立体感 x 美学提示词 x VOL.020
+
 <p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090148356597428723">View the original post and full prompt →</a></p>
 
 These samples demonstrate the 020 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
+
+> DECONSTRUCT–SELECT–DISTIL–RECONSTRUCT · FEW FORMS · STRICT COLOUR ROLES · IVORY SPACE · ART-BOOK MICROTYPE
+
+XXD Panel 020 is an image-generation Skill for Codex and compatible agents. It deconstructs, selects, distils, and reconstructs a photograph, retaining only its most distinctive mass ratios, axes, curves, interlocks, layers, occlusions, negative spaces, scale differences, and asymmetry in a few geometric forms that still correspond at a glance.
+
+Colour comes only from the source and resolves into one main colour, one dark structural colour, one light or neutral colour, and at most a small key accent. One poetic 2–5-word title carries emotion while two to four microtext groups carry order, evidence, material, and reading rhythm: geometry holds visual memory; typography builds the editorial path.
 
 <!-- xxd-panel-benefit:start -->
 ## Quick fit check: is XXD Panel 020 right for you?
