@@ -59,6 +59,18 @@
   </tr>
 </table>
 
+### 本次新增的 4 张样张（2×2）
+
+如果 GitHub 页面因图片加载或窄屏折叠导致表格看起来不完整，可直接打开下面四张原图：
+
+| 新增 1 | 新增 2 |
+|---|---|
+| [sample-05.png](./assets/examples/sample-05.png) | [sample-06.png](./assets/examples/sample-06.png) |
+
+| 新增 3 | 新增 4 |
+|---|---|
+| [sample-07.png](./assets/examples/sample-07.png) | [sample-08.png](./assets/examples/sample-08.png) |
+
 > 本次新增样张：从对应陈翔海报分组按文件名顺序使用四张照片，使用本 Panel 原始提示词生成 16:9 左右双联，并由模型按原始文字逻辑生成英文文案。
 
 > [小小东（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090148356597428723) · 2026-08-19<br>
