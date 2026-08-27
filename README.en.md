@@ -6,10 +6,10 @@
 
 # 🦁 XXD Panel 020
 
-### Distil the photograph into minimal abstract memory and a complete editorial system
+### Rebuild the photograph as a tactile miniature scene embedded in real impasto
 
 [![Codex Skill](https://img.shields.io/badge/Codex-Skill-000000?style=flat-square)](./SKILL.md)
-[![Four Modes](https://img.shields.io/badge/Modes-4-d75d32?style=flat-square)](#four-outputs-one-abstract-memory-logic)
+[![Four Modes](https://img.shields.io/badge/Modes-4-d75d32?style=flat-square)](#four-combinable-output-modes)
 [![Raster Output](https://img.shields.io/badge/Output-PNG-3c6f67?style=flat-square)](#boundaries-and-trust)
 
 <a href="README.md">简体中文</a> · <strong>English</strong> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.ar.md">العربية</a>
@@ -21,7 +21,7 @@
 
 Ever had a photo you loved turn into generic “AI design”? The subject survives, but the relationship, mood, and tiny details that made the photo yours disappear.
 
-That frustration is why I made **Panel 020**. It does not press a template onto your image. It first works out what must not be lost, then translates it into **Distil the photograph into minimal abstract memory and a complete editorial system**.
+That frustration is why I made **Panel 020**. It does not press a template onto your image. It preserves the subject and relationship that cannot be replaced, then embeds them in weighty impasto as a tactile dimensional miniature scene.
 
 ### Understand it in 30 seconds
 
@@ -38,7 +38,7 @@ You do not need to study every option first. Give your Agent an image and say:
 Check the samples below if you want to feel out the aesthetic. If you are ready, jump to [Get started](#get-started). The full modes, sizes, and parameters are tucked into an expandable reference for later.
 <!-- xxd-human-intro:end -->
 
-## Samples · From X
+## Original Samples from X
 
 <table>
   <tr>
@@ -49,76 +49,67 @@ Check the samples below if you want to feel out the aesthetic. If you are ready,
     <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090148356597428723"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 020 sample 3"></a></td>
     <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090148356597428723"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 020 sample 4"></a></td>
   </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-05.png" alt="XXD Panel 020 Sample 5"></td>
-    <td width="50%"><img src="./assets/examples/sample-06.png" alt="XXD Panel 020 Sample 6"></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-07.png" alt="XXD Panel 020 Sample 7"></td>
-    <td width="50%"><img src="./assets/examples/sample-08.png" alt="XXD Panel 020 Sample 8"></td>
-  </tr>
 </table>
 
-> New sample: the four photos from the corresponding Chenxiang poster group were used in filename order and rendered with this Panel's original brief as a 16:9 left-right composition with original-brief-generated English copy.
+
+> The new landscape samples are under review and will return only after they are verified against this Panel's own style.
 
 > [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090148356597428723) · 2026-08-19<br>
 > GPT2 x 厚涂 x 立体感 x 美学提示词 x VOL.020
 
 <p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090148356597428723">View the original post and full prompt →</a></p>
 
-These samples demonstrate the 020 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
+These four original samples jointly define 020’s style identity: palette-knife impasto, dimensional miniature scenes, coarse paper, and restrained editorial typography. Their particular subjects, colours, copy, and legacy ratio do not become a fixed template.
 
-> DECONSTRUCT–SELECT–DISTIL–RECONSTRUCT · FEW FORMS · STRICT COLOUR ROLES · IVORY SPACE · ART-BOOK MICROTYPE
+> IMPASTO ISLAND · DIMENSIONAL MINIATURE · REAL KNIFE MARKS · GENEROUS PAPER SPACE · RESTRAINED EDITORIAL TYPE
 
-XXD Panel 020 is an image-generation Skill for Codex and compatible agents. It deconstructs, selects, distils, and reconstructs a photograph, retaining only its most distinctive mass ratios, axes, curves, interlocks, layers, occlusions, negative spaces, scale differences, and asymmetry in a few geometric forms that still correspond at a glance.
+XXD Panel 020 preserves the photograph’s irreplaceable subject, action, and relationship, then rebuilds them as miniature objects, relief, or sculptural painting embedded in thick pigment. The subject remains recognisable while irrelevant surroundings are removed.
 
-Colour comes only from the source and resolves into one main colour, one dark structural colour, one light or neutral colour, and at most a small key accent. One poetic 2–5-word title carries emotion while two to four microtext groups carry order, evidence, material, and reading rhythm: geometry holds visual memory; typography builds the editorial path.
+One irregular paint island creates weight against coarse warm-white paper. Physical buildup, scraping, broken edges, exposed ground, and thickness shadows support the scene; source-derived colour and sparse typography keep it bound to the photograph.
 
-## Original prompt · Five languages
+## Corrected style brief · Five languages
 
-[Open the unified translation directory](references/original-prompt/): [Simplified Chinese original](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)
+[Open the unified language directory](references/original-prompt/): [Canonical corrected Chinese brief](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)
 
-The Simplified Chinese file preserves Xiaoxiaodong's wording verbatim and remains the sole runtime aesthetic authority. The other four files are faithful reading translations for international readers and sharing; they never rewrite the image-generation prompt.
+The 020 tweet body accidentally duplicates 015’s geometric-abstraction prompt despite the “impasto × dimensional” title and four consistent samples. [The source note](references/original-prompt/source-tweet-body-2026-08-19.md) records the conflict. The corrected Chinese brief is reconstructed from those four original samples and is the sole runtime authority; the other files are faithful reading translations.
 
 <!-- xxd-panel-benefit:start -->
 ## Quick fit check: is XXD Panel 020 right for you?
 
 | What you need to know | What this style gives you |
 |---|---|
-| **What you will get** | Distil the photograph into minimal abstract memory and a complete editorial system |
-| **Recognizable signature** | DECONSTRUCT–SELECT–DISTIL–RECONSTRUCT · FEW FORMS · STRICT COLOUR ROLES · IVORY SPACE · ART-BOOK MICROTYPE |
+| **What you will get** | A recognisable source scene rebuilt as a dimensional miniature embedded in impasto |
+| **Recognizable signature** | Impasto island · dimensional miniature · real knife marks · generous paper space · restrained editorial type |
 | **How it respects your source** | Recognizable identity, relationships, structure, and supplied facts stay anchored. Styling reorganizes the visual language instead of replacing your content with an unrelated template. |
 | **Where you can use it** | Create top-bottom, left-right, design-only, and four-device wallpaper outputs in multiple ratios or exact sizes. Delivery changes; the Panel's style identity does not get diluted. |
 <!-- xxd-panel-benefit:end -->
 
 ## How it turns your source into a distinctive result
 
-“Minimal geometry” easily collapses into a generic icon, arbitrary circles and bars, even arrangement, a stock Bauhaus template, or decorative forms that could accompany any photograph.
-
-020 reverses that logic:
+Generic “impasto style” often becomes a decorative splash, a plastic 3D toy, or a complete scene pasted into a rectangular frame. 020 instead binds pigment, miniature subject, colour, and copy to the source.
 
 ```text
-lock mass / axes / curves / interlocks / occlusions / negative space / asymmetry → deconstruct source structure → select the few relations essential to recognition → distil them into geometric roles → reconstruct one visual centre with strong scale hierarchy → assign main / dark structural / light-neutral colours → build a reading path with one title and two to four microtext groups
+identify subject / action / relationship / emotion → remove irrelevant surroundings → derive the strongest source colour relation → choose the paint island’s direction and scale → model the subject as a miniature embedded in pigment → reveal buildup / scraping / broken edges / thickness shadows → add only source-bound copy in the paper whitespace
 ```
 
-If an unrelated photograph could replace the source without materially changing mass ratios, axes, curves, interlocks, negative shapes, colour areas, or type path, the result is not 020.
+If an unrelated photograph could replace the source without materially changing the paint island, miniature subject, colour relationship, or copy, the result is not 020.
 
 ## What makes the finished style recognizable
 
-- **Source structure:** at least three specific cues come from mass ratio, axis, curve, interlock, layer, occlusion, negative space, scale difference, or asymmetry.
-- **Four-stage logic:** deconstruct structural facts, select essential relations, distil geometric roles, and reconstruct abstract memory instead of diagramming every detail.
-- **Few forms:** use only source-earned circles, ellipses, rectangles, bars, arcs, wedges, irregular planes, or custom simple contours.
-- **One visual memory:** strong scale difference, hierarchy, positive/negative form, occlusion, and generous ivory space create one centre.
-- **Strict colour roles:** one main, one dark structural, one light or neutral colour, and at most a small accent; area, value, and local contrast establish hierarchy.
-- **Complete type system:** one 2–5-word title plus two to four microtext groups, including deliberate scale contrast, form a reading path along axes, edges, contours, colour blocks, and negative space.
-- **No-year original-prompt-generated text:** original-prompt-generated text neither invents nor uses a year; exact user wording stays verbatim even when it contains one.
+- **Source identity:** subject, action, and key relationship remain instantly recognisable.
+- **One impasto island:** a directional band, scrape, or irregular pigment terrain forms the only visual anchor.
+- **Physical paint:** palette-knife buildup, ridges, broken edges, exposed ground, local highlights, and thickness shadows are visible.
+- **Embedded miniature:** the subject grows from, sinks into, overlaps, or is supported by pigment; it is never pasted into a rectangular frame.
+- **Source-derived colour:** the dominant paint field comes from the photograph’s strongest meaningful colour relationship, not a fixed palette.
+- **Generous paper space:** coarse warm-white or ivory paper supplies weight and breathing room.
+- **Restrained copy:** generated wording is tightly bound to the photograph; exact user copy is reproduced verbatim and placed lightly in whitespace.
 
 <details>
 <summary><strong>Full capabilities and parameters (open when needed)</strong></summary>
 
 ## The original brief is authoritative
 
-`references/original-prompt/zh-CN.md` is this project's sole creative and aesthetic authority. The Skill no longer summarizes or expands it, and it does not impose a shared palette, colour plan, aesthetic motive, title, or microcopy package. GPT Image 2 follows that brief's own rules for colour, material, composition, whitespace, wording, and typography.
+`references/original-prompt/zh-CN.md` is the corrected 020 brief and this project's sole creative and aesthetic authority. The Skill no longer summarizes or expands it, and it does not impose a shared palette, colour plan, aesthetic motive, title, or microcopy package. GPT Image 2 follows that brief's own rules for colour, material, composition, whitespace, wording, and typography.
 
 Mode and size completely replace the legacy 3:4 top-bottom delivery container without rewriting the transformation aesthetic. Each asset sends GPT Image 2 one selected mode's final contract instead of asking it to interpret four alternatives inside a generic template.
 
@@ -339,7 +330,7 @@ Each of the 60 Panels preserves its own original brief and aesthetic logic. The 
 | [xxd-panel-017](https://github.com/nevertoday/xxd-panel-017) | ROUNDED FORM · ROUGH BROKEN LINE · PURE FLAT FILL · BRIGHT FIELDS · LIVELY ASYMMETRY |
 | [xxd-panel-018](https://github.com/nevertoday/xxd-panel-018) | ONE VISUAL ANCHOR · FEW DEPTH LAYERS · WARM-IVORY SPACE · MATTE PAPER · COMPLETE MICROTYPE |
 | [xxd-panel-019](https://github.com/nevertoday/xxd-panel-019) | RECOGNISE FIRST · REDUCE WITH INTENT · COMPOSE WITH TYPE |
-| **[xxd-panel-020](https://github.com/nevertoday/xxd-panel-020)** | DECONSTRUCT–SELECT–DISTIL–RECONSTRUCT · FEW FORMS · STRICT COLOUR ROLES · IVORY SPACE · ART-BOOK MICROTYPE |
+| **[xxd-panel-020](https://github.com/nevertoday/xxd-panel-020)** | IMPASTO ISLAND · DIMENSIONAL MINIATURE · REAL KNIFE MARKS · GENEROUS PAPER SPACE · RESTRAINED EDITORIAL TYPE |
 | [xxd-panel-021](https://github.com/nevertoday/xxd-panel-021) | PURE-BLACK RECTANGLE · SUBJECT MOSTLY INSIDE · ONE FEATURE BREAKS OUT · JITTERY PHOTOCOPY LINE · WHITE NEGATIVE FORM |
 | [xxd-panel-022](https://github.com/nevertoday/xxd-panel-022) | PURE-BLACK RECTANGLE · SUBJECT MOSTLY INSIDE · ONE FEATURE BREAKS OUT · CLEAN ELASTIC LINE · ONE COLOUR SIGNAL |
 | [xxd-panel-023](https://github.com/nevertoday/xxd-panel-023) | SOURCE-CHOSEN WINDOW · PALE BREATHING GROUND · LIVING COLOURED LIGHT · SPRAY GRAIN · DIFFUSE PROJECTION |
@@ -416,7 +407,7 @@ The General Skill is the command center for the entire numbered-Skill roster. Yo
 
 <div align="center">
 
-**Abstraction is not deleting the photograph; it is preserving the relation that cannot be replaced.**
+**The paint has weight; the miniature keeps the photograph’s memory alive.**
 
 </div>
 

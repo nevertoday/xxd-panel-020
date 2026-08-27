@@ -1,18 +1,20 @@
 # XXD Panel 020 samples
 
-## Verified source
+## Verified original source
 
 - X post: https://x.com/xiaoxiaodong01/status/2090148356597428723
 - Author: Xiaoxiaodong (`@xiaoxiaodong01`)
-- Verification: The X post identifies this series as `VOL.020`.
-- Local files:
+- Project assignment: `VOL.020`
+- Original X sample files:
   - `sample-01.jpg`
   - `sample-02.jpg`
   - `sample-03.jpg`
   - `sample-04.jpg`
-  - `sample-05.png` — generated 16:9 left-right English-copy sample from the Chenxiang poster batch
-  - `sample-06.png` — generated 16:9 left-right English-copy sample from the Chenxiang poster batch
-  - `sample-07.png` — generated 16:9 left-right English-copy sample from the Chenxiang poster batch
-  - `sample-08.png` — generated 16:9 left-right English-copy sample from the Chenxiang poster batch
 
-The repository READMEs display these local copies; the original four samples link back to their X post, while sample-05 is a newly generated batch sample. The samples demonstrate the style's aesthetic motive and range only; they never become generation references, source material, fixed subjects, palettes, composition, copy, or default canvas sizes.
+## Additional landscape samples
+
+- Status: withdrawn on 2026-08-27.
+- Reason: the former `sample-05.png` through `sample-08.png` did not match the style identity demonstrated by the original X samples.
+- Publication gate: replacements must be checked against both the original prompt and the original X samples before README inclusion.
+
+The project READMEs keep original X samples and additional landscape samples in separate sections so their provenance is never conflated.
