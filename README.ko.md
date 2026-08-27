@@ -52,7 +52,20 @@
 </table>
 
 
-> 추가 가로형 예시는 재검토 중이며, 이 Panel 고유 스타일과의 일치를 확인한 뒤 다시 공개합니다.
+## 추가 16:9 좌우 구성 예시
+
+`group_020`의 독립 소재 네 장으로 다시 생성하고, 020 고유의 임파스토 섬, 입체 미니어처, 실제 나이프 자국, 원본 식별성, 원본 내용에 결속된 영어 문구를 작품별로 검토했습니다.
+
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-05.png" alt="XXD Panel 020 추가 좌우 예시 1"></td>
+    <td width="50%"><img src="./assets/examples/sample-06.png" alt="XXD Panel 020 추가 좌우 예시 2"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-07.png" alt="XXD Panel 020 추가 좌우 예시 3"></td>
+    <td width="50%"><img src="./assets/examples/sample-08.png" alt="XXD Panel 020 추가 좌우 예시 4"></td>
+  </tr>
+</table>
 
 > [샤오샤오둥（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090148356597428723) · 2026-08-19<br>
 > GPT2 x 厚涂 x 立体感 x 美学提示词 x VOL.020

@@ -51,7 +51,20 @@
   </tr>
 </table>
 
-> 新增横版样张正在重新审计，确认符合本编号风格后再恢复展示。
+## 新增 16:9 左右双联样张
+
+以下四张使用 `group_020` 的四张独立素材重新生成，并已按 020 的厚涂颜料岛、立体微缩、真实刀痕、源图识别度与英文文案关联逐张复核。
+
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-05.png" alt="XXD Panel 020 新增左右样张 1"></td>
+    <td width="50%"><img src="./assets/examples/sample-06.png" alt="XXD Panel 020 新增左右样张 2"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-07.png" alt="XXD Panel 020 新增左右样张 3"></td>
+    <td width="50%"><img src="./assets/examples/sample-08.png" alt="XXD Panel 020 新增左右样张 4"></td>
+  </tr>
+</table>
 
 > [小小东（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090148356597428723) · 2026-08-19<br>
 > GPT2 x 厚涂 x 立体感 x 美学提示词 x VOL.020

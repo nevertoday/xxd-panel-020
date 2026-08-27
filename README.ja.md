@@ -52,7 +52,20 @@
 </table>
 
 
-> 追加横長サンプルは再審査中です。この Panel 固有のスタイルとの一致を確認してから再掲載します。
+## 追加 16:9 左右構成作例
+
+`group_020` の四つの独立素材から再生成し、020 固有の厚塗りの島、立体ミニチュア、本物のナイフ跡、元画像の識別性、内容に結びつく英語文言を一作ずつ確認しました。
+
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-05.png" alt="XXD Panel 020 追加左右作例 1"></td>
+    <td width="50%"><img src="./assets/examples/sample-06.png" alt="XXD Panel 020 追加左右作例 2"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-07.png" alt="XXD Panel 020 追加左右作例 3"></td>
+    <td width="50%"><img src="./assets/examples/sample-08.png" alt="XXD Panel 020 追加左右作例 4"></td>
+  </tr>
+</table>
 
 > [小小東（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090148356597428723) · 2026-08-19<br>
 > GPT2 x 厚涂 x 立体感 x 美学提示词 x VOL.020

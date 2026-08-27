@@ -52,7 +52,20 @@
 </table>
 
 
-> تخضع النماذج الأفقية الإضافية لإعادة المراجعة، ولن تعود إلى العرض قبل التحقق من مطابقتها لأسلوب هذا الإصدار.
+## نماذج إضافية 16:9 بتكوين يسار–يمين
+
+أُعيد توليد هذه الأعمال الأربعة من المصادر المستقلة الأربعة في `group_020`، ثم روجع كل عمل للتأكد من جزيرة الطلاء الكثيف، والمشهد المصغّر المجسّم، وآثار السكين الحقيقية، ووضوح صلته بالمصدر، وارتباط النص الإنجليزي بمحتوى الصورة.
+
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-05.png" alt="نموذج XXD Panel 020 إضافي بتكوين يسار–يمين 1"></td>
+    <td width="50%"><img src="./assets/examples/sample-06.png" alt="نموذج XXD Panel 020 إضافي بتكوين يسار–يمين 2"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-07.png" alt="نموذج XXD Panel 020 إضافي بتكوين يسار–يمين 3"></td>
+    <td width="50%"><img src="./assets/examples/sample-08.png" alt="نموذج XXD Panel 020 إضافي بتكوين يسار–يمين 4"></td>
+  </tr>
+</table>
 
 > [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090148356597428723) · 2026-08-19<br>
 > GPT2 x 厚涂 x 立体感 x 美学提示词 x VOL.020

@@ -52,7 +52,20 @@ Check the samples below if you want to feel out the aesthetic. If you are ready,
 </table>
 
 
-> The new landscape samples are under review and will return only after they are verified against this Panel's own style.
+## Additional 16:9 Left–Right Samples
+
+These four works were regenerated from the four independent sources in `group_020` and individually reviewed for Panel 020 impasto islands, dimensional miniatures, physical knife marks, source recognition, and source-bound English copy.
+
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-05.png" alt="XXD Panel 020 additional left-right sample 1"></td>
+    <td width="50%"><img src="./assets/examples/sample-06.png" alt="XXD Panel 020 additional left-right sample 2"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-07.png" alt="XXD Panel 020 additional left-right sample 3"></td>
+    <td width="50%"><img src="./assets/examples/sample-08.png" alt="XXD Panel 020 additional left-right sample 4"></td>
+  </tr>
+</table>
 
 > [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090148356597428723) · 2026-08-19<br>
 > GPT2 x 厚涂 x 立体感 x 美学提示词 x VOL.020
