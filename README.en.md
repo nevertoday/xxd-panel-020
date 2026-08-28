@@ -16,28 +16,6 @@
 
 </div>
 
-<!-- xxd-human-intro:start -->
-## Where this Panel fits — and what it solves
-
-When a photograph needs to become a poster, cover, social asset, or wallpaper, the real design problem is rarely a simple change of style. The challenge is to redesign it while preserving identity, key relationships, mood, and recognisability.
-
-**Panel 020** is suited to work that must retain the source's essential content while pursuing this visual direction: **Rebuild the photograph as a tactile miniature scene embedded in real impasto**. It begins with intended use and desired outcome; layout, size, text, and delivery format follow from those needs.
-
-### Use it when
-
-- **Content must remain anchored:** people, objects, actions, and relationships should not be replaced by an unrelated template.
-- **The image needs stronger expression:** you want a clearer editorial language, artistic treatment, or narrative focus.
-- **Delivery must stay flexible:** one source needs comparison layouts, design-only artwork, multiple ratios, or a wallpaper set.
-
-### A simple way to begin
-
-You do not need to review every option first. Send your Agent an image and say:
-
-> Use XXD Panel 020 on this image and recommend the best layout and size first.
-
-Review the samples below if you want to confirm the visual direction first. When you are ready, continue to [Get started](#get-started). Full modes, sizes, and parameters remain available in the expandable reference.
-<!-- xxd-human-intro:end -->
-
 ## Original Samples from X
 
 <table>
@@ -94,6 +72,28 @@ These four original samples jointly define 020’s style identity: palette-knife
 XXD Panel 020 preserves the photograph’s irreplaceable subject, action, and relationship, then rebuilds them as miniature objects, relief, or sculptural painting embedded in thick pigment. The subject remains recognisable while irrelevant surroundings are removed.
 
 One irregular paint island creates weight against coarse warm-white paper. Physical buildup, scraping, broken edges, exposed ground, and thickness shadows support the scene; source-derived colour and sparse typography keep it bound to the photograph.
+
+<!-- xxd-human-intro:start -->
+## Where this Panel fits — and what it solves
+
+When a photograph needs to become a poster, cover, social asset, or wallpaper, the real design problem is rarely a simple change of style. The challenge is to redesign it while preserving identity, key relationships, mood, and recognisability.
+
+**Panel 020** is suited to work that must retain the source's essential content while pursuing this visual direction: **Rebuild the photograph as a tactile miniature scene embedded in real impasto**. It begins with intended use and desired outcome; layout, size, text, and delivery format follow from those needs.
+
+### Use it when
+
+- **Content must remain anchored:** people, objects, actions, and relationships should not be replaced by an unrelated template.
+- **The image needs stronger expression:** you want a clearer editorial language, artistic treatment, or narrative focus.
+- **Delivery must stay flexible:** one source needs comparison layouts, design-only artwork, multiple ratios, or a wallpaper set.
+
+### A simple way to begin
+
+You do not need to review every option first. Send your Agent an image and say:
+
+> Use XXD Panel 020 on this image and recommend the best layout and size first.
+
+Review the samples below if you want to confirm the visual direction first. When you are ready, continue to [Get started](#get-started). Full modes, sizes, and parameters remain available in the expandable reference.
+<!-- xxd-human-intro:end -->
 
 ## Corrected style brief · Five languages
 
