@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 020
+# 🦁 XXD Panel 020｜厚涂微景观
 
 ### 把照片嵌进真实厚涂，重构成可触摸的立体微景观
 

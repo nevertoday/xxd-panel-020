@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 020
+# 🦁 XXD Panel 020｜임파스토 미니 풍경
 
 ### 사진을 실제 임파스토에 박힌 촉각적 입체 미니어처 장면으로
 

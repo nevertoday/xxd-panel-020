@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 020
+# 🦁 XXD Panel 020｜Impasto Micro-Landscape
 
 ### Rebuild the photograph as a tactile miniature scene embedded in real impasto
 
