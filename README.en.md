@@ -87,6 +87,15 @@ You do not need to review every option first. Send your Agent an image and say:
 The samples above can help you confirm the visual direction. When you are ready, continue to [Get started](#get-started). Full modes, sizes, and parameters remain available in the expandable reference.
 <!-- xxd-human-intro:end -->
 
+## Usage tips
+
+- **Start with one clear photo:** choose a source whose subject, action, and relationships are easy to recognize before choosing the delivery format.
+- **Join the parameters in one sentence:** say “top-bottom / left-right / design-only + 16:9 / 3:4 / phone wallpaper”; you can also name desktop, tablet, or smartwatch sizes.
+- **State what must stay:** identify the people, objects, actions, relationships, and copy to preserve, while leaving room for the style to design the layout.
+- **Choose a text mode:** let the model write from the image, lock exact wording with `--text exact --copy`, or remove text completely with `--text none`.
+- **Clarify reality and design regions:** for top-bottom or left-right, say which region keeps the photograph and which region is redesigned; for design-only and wallpapers, say that the whole canvas is redesigned.
+- **Test one image before batching:** confirm mode, ratio, text, and language on one source, then reuse the settings for a folder; change one variable per iteration.
+
 ## Corrected style brief · Five languages
 
 [Open the unified language directory](references/original-prompt/): [Canonical corrected Chinese brief](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)
@@ -103,26 +112,6 @@ The 020 tweet body accidentally duplicates 015’s geometric-abstraction prompt 
 | **How it respects your source** | Recognizable identity, relationships, structure, and supplied facts stay anchored. Styling reorganizes the visual language instead of replacing your content with an unrelated template. |
 | **Where you can use it** | Create top-bottom, left-right, design-only, and four-device wallpaper outputs in multiple ratios or exact sizes. Delivery changes; the Panel's style identity does not get diluted. |
 <!-- xxd-panel-benefit:end -->
-
-## How it turns your source into a distinctive result
-
-Generic “impasto style” often becomes a decorative splash, a plastic 3D toy, or a complete scene pasted into a rectangular frame. 020 instead binds pigment, miniature subject, colour, and copy to the source.
-
-```text
-identify subject / action / relationship / emotion → remove irrelevant surroundings → derive the strongest source colour relation → choose the paint island’s direction and scale → model the subject as a miniature embedded in pigment → reveal buildup / scraping / broken edges / thickness shadows → add only source-bound copy in the paper whitespace
-```
-
-If an unrelated photograph could replace the source without materially changing the paint island, miniature subject, colour relationship, or copy, the result is not 020.
-
-## What makes the finished style recognizable
-
-- **Source identity:** subject, action, and key relationship remain instantly recognisable.
-- **One impasto island:** a directional band, scrape, or irregular pigment terrain forms the only visual anchor.
-- **Physical paint:** palette-knife buildup, ridges, broken edges, exposed ground, local highlights, and thickness shadows are visible.
-- **Embedded miniature:** the subject grows from, sinks into, overlaps, or is supported by pigment; it is never pasted into a rectangular frame.
-- **Source-derived colour:** the dominant paint field comes from the photograph’s strongest meaningful colour relationship, not a fixed palette.
-- **Generous paper space:** coarse warm-white or ivory paper supplies weight and breathing room.
-- **Restrained copy:** generated wording is tightly bound to the photograph; exact user copy is reproduced verbatim and placed lightly in whitespace.
 
 <details>
 <summary><strong>Full capabilities and parameters (open when needed)</strong></summary>
