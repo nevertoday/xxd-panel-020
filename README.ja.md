@@ -85,21 +85,6 @@
 視覚方向を先に確認したい場合は、上の作例をご覧ください。準備ができたら[使い始める](#使い始める)へ進めます。全モードと引数は折りたたみ資料から必要に応じて確認できます。
 <!-- xxd-human-intro:end -->
 
-## 使い方のコツ
-
-- **まず一枚の見やすい写真から始める：** 主体・動作・関係が分かる画像を選んでから、出力形式と比率を決めます。
-- **パラメータを一文でつなぐ：** 「上下 / 左右 / デザインのみ + 16:9 / 3:4 / スマホ壁紙」のように指定し、PC・タブレット・スマートウォッチのサイズも追加できます。
-- **残したい内容を明示する：** 人物、物、動作、関係、文字を指定し、レイアウトを細かく縛りすぎずスタイルに任せます。
-- **文字の方法を選ぶ：** 画像から自動生成、`--text exact --copy` で逐字固定、または `--text none` で文字なしにできます。
-- **写真領域とデザイン領域を伝える：** 上下・左右では写真を残す側と再設計する側を指定し、デザインのみ・壁紙では全画面を再設計すると伝えます。
-- **一枚で試してから一括処理する：** モード、比率、文字、言語を一枚で確認し、同じ設定をフォルダに適用します。比較しやすいよう一度に一つだけ変更します。
-
-## 校正版スタイル指示 · 5言語
-
-[言語ディレクトリを開く](references/original-prompt/)：[中国語の校正版](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)
-
-020 の投稿本文は、厚塗り・立体感という題と四つの作例に反して 015 の幾何抽象プロンプトを重複していました。[出典ノート](references/original-prompt/source-tweet-body-2026-08-19.md)がこの衝突を記録します。四作例から再構成した中国語校正版だけが実行時の権威で、他言語は忠実な閲覧訳です。
-
 <!-- xxd-panel-benefit:start -->
 ## すぐに判断：XXD Panel 020 はあなたに合う？
 
@@ -110,6 +95,54 @@
 | **入力素材をどう尊重するか** | 入力に固有の人物・物・関係・構造・事実を識別可能なまま保ちます。スタイル変換は視覚言語を再構成するもので、内容を無関係なテンプレートへ置き換えません。 |
 | **利用できる形** | 上下、左右、デザインのみ、4端末の壁紙を、複数比率または正確なサイズで作れます。納品形式が変わっても、この Panel のスタイル固有性は薄まりません。 |
 <!-- xxd-panel-benefit:end -->
+
+## 使い方のコツ
+
+- **まず一枚の見やすい写真から始める：** 主体・動作・関係が分かる画像を選んでから、出力形式と比率を決めます。
+- **パラメータを一文でつなぐ：** 「上下 / 左右 / デザインのみ + 16:9 / 3:4 / スマホ壁紙」のように指定し、PC・タブレット・スマートウォッチのサイズも追加できます。
+- **残したい内容を明示する：** 人物、物、動作、関係、文字を指定し、レイアウトを細かく縛りすぎずスタイルに任せます。
+- **文字の方法を選ぶ：** 画像から自動生成、`--text exact --copy` で逐字固定、または `--text none` で文字なしにできます。
+- **写真領域とデザイン領域を伝える：** 上下・左右では写真を残す側と再設計する側を指定し、デザインのみ・壁紙では全画面を再設計すると伝えます。
+- **一枚で試してから一括処理する：** モード、比率、文字、言語を一枚で確認し、同じ設定をフォルダに適用します。比較しやすいよう一度に一つだけ変更します。
+
+## 使い始める
+
+```bash
+git clone https://github.com/nevertoday/xxd-panel-020.git
+mkdir -p ~/.codex/skills
+ln -s "$(pwd)/xxd-panel-020" ~/.codex/skills/xxd-panel-020
+```
+
+`npx skills` でも直接インストールできます：
+
+```bash
+npx skills add https://github.com/nevertoday/xxd-panel-020 --skill xxd-panel-020
+```
+
+このコマンドは GitHub からリポジトリを取得し、同名の Skill を現在の Agent にインストールします。ユーザー単位の Codex Skills ディレクトリへ入れる場合は、末尾に `--global --agent codex --yes` を追加してください。
+
+Claude Code では同じフォルダを `~/.claude/skills/xxd-panel-020` にリンクできます。インストール後に Agent セッションを再起動してください。
+
+```text
+$xxd-panel-020
+この写真を左右二連にしてください。文案は写真の意味から作り、自然な韓国語を使ってください。
+```
+
+写真だけでも呼び出せます。番号付きの複数行メニューでモードと文字設定を確認し、壁紙では連動／独立と端末サイズも確認します。
+
+詳細仕様：
+
+- [Skill ワークフロー](SKILL.md)
+- [中国語ランタイムアダプター](references/xxd-panel-020-prompt.zh-CN.md)
+- [英語ランタイムアダプター](references/xxd-panel-020-prompt.en.md)
+- [元のスタイル指示](references/original-prompt/zh-CN.md)
+
+## 校正版スタイル指示 · 5言語
+
+[言語ディレクトリを開く](references/original-prompt/)：[中国語の校正版](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)
+
+020 の投稿本文は、厚塗り・立体感という題と四つの作例に反して 015 の幾何抽象プロンプトを重複していました。[出典ノート](references/original-prompt/source-tweet-body-2026-08-19.md)がこの衝突を記録します。四作例から再構成した中国語校正版だけが実行時の権威で、他言語は忠実な閲覧訳です。
+
 
 <details>
 <summary><strong>全機能と引数（必要なときに開く）</strong></summary>
@@ -257,38 +290,6 @@ GPT Image 2 を既定の第一候補とします。高忠実度の参照画像�
 適切な経路がない場合は、画像生成ツールを有効にするか API Key を提供するようユーザーに案内します。ユーザーが提供した認証情報は現在のタスクで利用できますが、返信やログに再表示・記録・開示しません。明示的な依頼がない限り、長期保存やプロバイダー、アカウント、課金、グローバル経路の設定変更も行いません。
 
 </details>
-
-## 使い始める
-
-```bash
-git clone https://github.com/nevertoday/xxd-panel-020.git
-mkdir -p ~/.codex/skills
-ln -s "$(pwd)/xxd-panel-020" ~/.codex/skills/xxd-panel-020
-```
-
-`npx skills` でも直接インストールできます：
-
-```bash
-npx skills add https://github.com/nevertoday/xxd-panel-020 --skill xxd-panel-020
-```
-
-このコマンドは GitHub からリポジトリを取得し、同名の Skill を現在の Agent にインストールします。ユーザー単位の Codex Skills ディレクトリへ入れる場合は、末尾に `--global --agent codex --yes` を追加してください。
-
-Claude Code では同じフォルダを `~/.claude/skills/xxd-panel-020` にリンクできます。インストール後に Agent セッションを再起動してください。
-
-```text
-$xxd-panel-020
-この写真を左右二連にしてください。文案は写真の意味から作り、自然な韓国語を使ってください。
-```
-
-写真だけでも呼び出せます。番号付きの複数行メニューでモードと文字設定を確認し、壁紙では連動／独立と端末サイズも確認します。
-
-詳細仕様：
-
-- [Skill ワークフロー](SKILL.md)
-- [中国語ランタイムアダプター](references/xxd-panel-020-prompt.zh-CN.md)
-- [英語ランタイムアダプター](references/xxd-panel-020-prompt.en.md)
-- [元のスタイル指示](references/original-prompt/zh-CN.md)
 
 ## 境界と信頼性
 
