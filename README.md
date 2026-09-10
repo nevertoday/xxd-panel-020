@@ -23,22 +23,22 @@
 
 ## 16:9 左右双联样张
 
-以下四张使用 `group_020` 的四张独立素材重新生成，并已按 020 的厚涂颜料岛、立体微缩、真实刀痕、源图识别度与英文文案关联逐张复核。
+以下四张为独立素材，完整 16:9 画布：左为现实摄影，右为本 Panel 设计转译，严格 50:50。文案由模型按原始提示词从当前照片智能生成。
 
 <table>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-05.png" alt="XXD Panel 020 新增左右样张 1"></td>
-    <td width="50%"><img src="./assets/examples/sample-06.png" alt="XXD Panel 020 新增左右样张 2"></td>
+    <td width="50%"><img src="./assets/examples/sample-05.png" alt="XXD Panel 020 样张 5"></td>
+    <td width="50%"><img src="./assets/examples/sample-06.png" alt="XXD Panel 020 样张 6"></td>
   </tr>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-07.png" alt="XXD Panel 020 新增左右样张 3"></td>
-    <td width="50%"><img src="./assets/examples/sample-08.png" alt="XXD Panel 020 新增左右样张 4"></td>
+    <td width="50%"><img src="./assets/examples/sample-07.png" alt="XXD Panel 020 样张 7"></td>
+    <td width="50%"><img src="./assets/examples/sample-08.png" alt="XXD Panel 020 样张 8"></td>
   </tr>
 </table>
 
 ## 3:4 上下双联样张
 
-以下四张复用上方 16:9 样张对应的四张独立素材，重新生成完整 3:4 上下双联画布；上部保留现实摄影，下部遵循 020 原始提示词重构。英文配字只从当前照片的内容、情绪或隐喻中生成，并已逐张复核。
+以下四张使用与 16:9 组完全不同的四张独立素材，重新生成完整 3:4 上下双联画布；上部保留现实摄影，下部遵循本 Panel 原始提示词重构。英文配字只从当前照片的内容、情绪或隐喻中生成。
 
 <table>
   <tr>
@@ -50,21 +50,6 @@
     <td width="50%"><img src="./assets/examples/sample-12.png" alt="XXD Panel 020 新增上下样张 4"></td>
   </tr>
 </table>
-
-> [小小东（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090148356597428723) · 2026-08-19<br>
-> GPT2 x 厚涂 x 立体感 x 美学提示词 x VOL.020
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090148356597428723">查看原推文与完整提示词 →</a></p>
-
-这四张原始样张共同定义 020 的风格身份：厚涂油画刀痕、立体微缩场景、粗纹理纸面与克制编辑排版。样张中的具体主体、配色、文案和旧画幅不会成为固定模板。
-
-> 厚涂颜料岛 · 立体微缩场景 · 真实刀痕 · 大面积纸面留白 · 克制编辑排版
-
-XXD Panel 020 是一个面向 Codex 与兼容 Agent 的图像生成 Skill。它先保留照片中不可替换的主体、动作和关系，再把这些信息重构成嵌入厚涂颜料的微缩实体、浮雕或雕塑性绘画；主体一眼可辨，但无关背景会被主动删去。
-
-画面以粗纹理暖白纸面和一块不规则厚涂颜料岛建立重量与留白；真实的堆积、刮痕、断边、露底与投影承托微缩叙事。颜色从源图最有力量的关系中提炼，文字只在留白中轻轻进入，不盖过厚涂主体。
-
-<!-- xxd-human-intro:start -->
 ## 适用场景与解决的问题
 
 当照片需要用于海报、封面、社交内容或壁纸时，真正需要解决的通常不是简单换一种画风，而是如何在重新设计之后，仍然保留主体身份、关键关系、情绪与辨识度。

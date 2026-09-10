@@ -24,46 +24,33 @@
 
 ## 16:9 좌우 구성 예시
 
-`group_020`의 독립 소재 네 장으로 다시 생성하고, 020 고유의 임파스토 섬, 입체 미니어처, 실제 나이프 자국, 원본 식별성, 원본 내용에 결속된 영어 문구를 작품별로 검토했습니다.
+서로 다른 원본 네 장으로 만든 16:9 완성 캔버스. 왼쪽은 실사, 오른쪽은 이 Panel 디자인, 정확히 50:50.
 
 <table>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-05.png" alt="XXD Panel 020 추가 좌우 예시 1"></td>
-    <td width="50%"><img src="./assets/examples/sample-06.png" alt="XXD Panel 020 추가 좌우 예시 2"></td>
+    <td width="50%"><img src="./assets/examples/sample-05.png" alt="XXD Panel 020 Sample 5"></td>
+    <td width="50%"><img src="./assets/examples/sample-06.png" alt="XXD Panel 020 Sample 6"></td>
   </tr>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-07.png" alt="XXD Panel 020 추가 좌우 예시 3"></td>
-    <td width="50%"><img src="./assets/examples/sample-08.png" alt="XXD Panel 020 추가 좌우 예시 4"></td>
+    <td width="50%"><img src="./assets/examples/sample-07.png" alt="XXD Panel 020 Sample 7"></td>
+    <td width="50%"><img src="./assets/examples/sample-08.png" alt="XXD Panel 020 Sample 8"></td>
   </tr>
 </table>
 
 ## 3:4 상하 구성 예시
 
-위 16:9 예시와 같은 네 개의 독립 소스를 완전한 3:4 상하 캔버스로 다시 생성했습니다. 위쪽은 현실 사진을 유지하고 아래쪽은 Panel 020의 원본 프롬프트에 따라 재구성합니다. 영어 문구는 각 사진의 내용·분위기·함의에서만 생성했으며 모든 결과를 개별 검수했습니다.
+16:9 세트와 다른 원본 네 장으로 만든 3:4 상하 완성 캔버스. 위는 실사, 아래는 디자인, 정확히 50:50.
 
 <table>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-09.png" alt="XXD Panel 020 추가 상하 예시 1"></td>
-    <td width="50%"><img src="./assets/examples/sample-10.png" alt="XXD Panel 020 추가 상하 예시 2"></td>
+    <td width="50%"><img src="./assets/examples/sample-09.png" alt="XXD Panel 020 additional top-bottom sample 1"></td>
+    <td width="50%"><img src="./assets/examples/sample-10.png" alt="XXD Panel 020 additional top-bottom sample 2"></td>
   </tr>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-11.png" alt="XXD Panel 020 추가 상하 예시 3"></td>
-    <td width="50%"><img src="./assets/examples/sample-12.png" alt="XXD Panel 020 추가 상하 예시 4"></td>
+    <td width="50%"><img src="./assets/examples/sample-11.png" alt="XXD Panel 020 additional top-bottom sample 3"></td>
+    <td width="50%"><img src="./assets/examples/sample-12.png" alt="XXD Panel 020 additional top-bottom sample 4"></td>
   </tr>
 </table>
-
-> [샤오샤오둥（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090148356597428723) · 2026-08-19<br>
-> GPT2 x 厚涂 x 立体感 x 美学提示词 x VOL.020
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090148356597428723">원문 게시물과 전체 프롬프트 보기 →</a></p>
-
-네 장의 원본 예시가 020의 스타일 정체성을 함께 정의합니다. 팔레트 나이프 임파스토, 입체 미니어처 장면, 거친 종이, 절제된 편집 타이포그래피입니다. 개별 주제, 색, 문구와 과거 비율은 고정 템플릿이 되지 않습니다.
-
-> 임파스토 섬 · 입체 미니어처 · 실제 나이프 자국 · 넓은 종이 여백 · 절제된 편집 글자
-
-020은 사진의 대체 불가능한 주체, 행동과 관계를 유지한 뒤 두꺼운 안료에 박힌 미니어처 실물, 부조 또는 조각적 회화로 재구성합니다. 거친 따뜻한 백색 종이 위의 불규칙한 물감 섬과 축적, 긁힘, 끊어진 가장자리, 드러난 바탕, 두께 그림자가 장면을 지탱합니다.
-
-<!-- xxd-human-intro:start -->
 ## 적합한 상황과 해결하는 문제
 
 사진을 포스터, 표지, 소셜 콘텐츠 또는 배경화면으로 사용할 때 핵심 과제는 단순히 화풍을 바꾸는 것이 아닙니다. 다시 디자인한 뒤에도 대상의 정체성, 중요한 관계, 분위기와 식별성을 유지해야 합니다.

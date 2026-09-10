@@ -24,22 +24,22 @@
 
 ## 16:9 Left–Right Samples
 
-These four works were regenerated from the four independent sources in `group_020` and individually reviewed for Panel 020 impasto islands, dimensional miniatures, physical knife marks, source recognition, and source-bound English copy.
+Four independent sources on complete 16:9 canvases: reality left, this Panel's design right, exact 50:50. English copy is generated from each photograph.
 
 <table>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-05.png" alt="XXD Panel 020 additional left-right sample 1"></td>
-    <td width="50%"><img src="./assets/examples/sample-06.png" alt="XXD Panel 020 additional left-right sample 2"></td>
+    <td width="50%"><img src="./assets/examples/sample-05.png" alt="XXD Panel 020 Sample 5"></td>
+    <td width="50%"><img src="./assets/examples/sample-06.png" alt="XXD Panel 020 Sample 6"></td>
   </tr>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-07.png" alt="XXD Panel 020 additional left-right sample 3"></td>
-    <td width="50%"><img src="./assets/examples/sample-08.png" alt="XXD Panel 020 additional left-right sample 4"></td>
+    <td width="50%"><img src="./assets/examples/sample-07.png" alt="XXD Panel 020 Sample 7"></td>
+    <td width="50%"><img src="./assets/examples/sample-08.png" alt="XXD Panel 020 Sample 8"></td>
   </tr>
 </table>
 
 ## 3:4 Top–Bottom Samples
 
-These four works reuse the same four independent sources as the 16:9 set above, now regenerated as complete 3:4 top–bottom canvases. The original photograph remains above; the lower design follows Panel 020's original brief. English copy is generated only from each photograph's content, mood, or implication, and every result was individually reviewed.
+Four further independent sources, different from the 16:9 set, regenerated as complete 3:4 top–bottom canvases. The original photograph remains above; the lower design follows this Panel's original brief.
 
 <table>
   <tr>
@@ -51,21 +51,6 @@ These four works reuse the same four independent sources as the 16:9 set above, 
     <td width="50%"><img src="./assets/examples/sample-12.png" alt="XXD Panel 020 additional top-bottom sample 4"></td>
   </tr>
 </table>
-
-> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090148356597428723) · 2026-08-19<br>
-> GPT2 x 厚涂 x 立体感 x 美学提示词 x VOL.020
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090148356597428723">View the original post and full prompt →</a></p>
-
-These four original samples jointly define 020’s style identity: palette-knife impasto, dimensional miniature scenes, coarse paper, and restrained editorial typography. Their particular subjects, colours, copy, and legacy ratio do not become a fixed template.
-
-> IMPASTO ISLAND · DIMENSIONAL MINIATURE · REAL KNIFE MARKS · GENEROUS PAPER SPACE · RESTRAINED EDITORIAL TYPE
-
-XXD Panel 020 preserves the photograph’s irreplaceable subject, action, and relationship, then rebuilds them as miniature objects, relief, or sculptural painting embedded in thick pigment. The subject remains recognisable while irrelevant surroundings are removed.
-
-One irregular paint island creates weight against coarse warm-white paper. Physical buildup, scraping, broken edges, exposed ground, and thickness shadows support the scene; source-derived colour and sparse typography keep it bound to the photograph.
-
-<!-- xxd-human-intro:start -->
 ## Where this Panel fits — and what it solves
 
 When a photograph needs to become a poster, cover, social asset, or wallpaper, the real design problem is rarely a simple change of style. The challenge is to redesign it while preserving identity, key relationships, mood, and recognisability.
